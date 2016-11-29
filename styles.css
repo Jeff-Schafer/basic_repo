@@ -2,3 +2,6 @@ body {
  background: linear-gradient(to top left, #33ccff 0%, #ffff99 100%);
  height: 700px;
 }
+h1 {
+ background: lightblue;
+}
