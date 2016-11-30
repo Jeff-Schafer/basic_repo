@@ -1,0 +1,5 @@
+1. Created the "index.html" file & added content.
+2. Created the CSS file & set the style of the <body>tag.
+3. Uploaded these files to https://github.com/Jeff-Schafer/basic_repo.
+4. Changed the <li> tags color in the "index.html" file & added a background color for the <h1> tag in the "styles.css" file.
+5. Uploaded these changes to https://github.com/Jeff-Schafer/basic_repo.
